@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/tokaisagami/tokaisagami/">
-    <img src="https://komarev.com/ghpvc/?username=tokaisagami" alt="tokaisagami" />
-  </a>
-  <a href="https://github.com/tokaisagami">
-    <img height="20" src="https://img.shields.io/github/followers/tokaisagami?label=follow&logo=github&style=flat" />
-  </a>
+<p align="left"> 
+  <a href="https://github.com/tokaisagami/tokaisagami/"><img src="https://komarev.com/ghpvc/?username=tokaisagami" alt="tokaisagami" /></a>
+  <a href="https://github.com/tokaisagami"><img height="20" src="https://img.shields.io/github/followers/tokaisagami?label=follow&logo=github&style=flat" /></a>
+  <a href="http://x.com/ki_runteq_pro6a"><img height="20" src="https://img.shields.io/twitter/follow/ki_runteq_pro6a?style=flat&logo=x" /></a>
 </p>
 
 ### Recent Activities
